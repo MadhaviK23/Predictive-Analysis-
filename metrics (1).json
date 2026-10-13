@@ -1,0 +1,12 @@
+{
+  "best_C": 0.01,
+  "cv_accuracy_mean": 0.9851851851851852,
+  "cv_accuracy_std": 0.02962962962962963,
+  "test_accuracy": 1.0,
+  "test_precision_macro": 1.0,
+  "test_recall_macro": 1.0,
+  "test_f1_macro": 1.0,
+  "test_roc_auc_ovr_macro": 1.0,
+  "n_train": 133,
+  "n_test": 45
+}
